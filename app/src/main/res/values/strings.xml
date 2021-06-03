@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">cometbot</string>
+    <string name="title_activity_coverpage">coverpage</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+    <string name="logo_text">Cometbot</string>
+    <string name="title_activity_onboarding_1">Onboarding_1</string>
+    <string name="exlore_dest">Exlore Destinations</string>
+    <string name="discover_th">Discover the places for your trip in the\nworld and feel great.</string>
+    <string name="title_activity_onboarding_2">Onboarding_2</string>
+    <string name="select_a">Select a place for your trip easily and know the exact cost of the tour.</string>
+    <string name="choose_a">Choose a Destination</string>
+    <string name="title_activity_onboarding_three">Onboarding_three</string>
+    <string name="fly_to">Fly to Desitination</string>
+    <string name="finally_get">Finally, get ready for the tour and go to\nyour desire destination.</string>
+    <string name="title_activity_start">Start</string>
+    <string name="enjoy_your_">Enjoy your holiday with Cometbot</string>
+    <string name="keep_you_tr">Keep you travel very comfortable, easy and explore the world with Cometbot.</string>
+    <string name="title_activity_signin">Signin</string>
+    <string name="welcome_to_">Welcome to world explorer!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="labelSignIn">Sign in</string>
+    <string name="register">Register</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="title_activity_register">Register</string>
+    <string name="create_acco">Create Account</string>
+    <string name="reset_password">Reset a new Password</string>
+    <string name="username">Name</string>
+    <string name="sendcode">Send Code</string>
+    <string name="discover">Discover</string>
+    <string name="explore">Explore the best places in world!</string>\
+    <string name="search">Search your trip</string>
+    <string name="city_1">All</string>
+    <string name="city_2">Tasmania</string>
+    <string name="city_3">Europe</string>
+    <string name="city_4">Asia</string>
+    <string name="city_5">Ocenia</string>
+    <string name="subheading">Popular Categories</string>
+    <string name="trips">Trips</string>
+    <string name="hotel">Hotel</string>
+    <string name="transport">Transport</string>
+    <string name="events">Events</string>
+    <string name="hobart">Hobart, Tasmania</string>
+    <string name="launceston">Launceston, Tasmania</string>
+    <string name="starting_at">Starting at $1000</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="title_activity_city">City</string>
+    <string name="rank">4.9</string>
+    <string name="total_num">(2.7k)</string>
+    <string name="overview">Overview</string>
+    <string name="details">Details</string>
+    <string name="reviews">Reviews</string>
+    <string name="costs">Costs</string>
+    <string name="overview_content">Climb a mountain and view captivating modern art in the same
+        day. Eat fish and chips from a floating fish punt, or dine in the finest and freshest of
+        restaurants. Add thriving markets, an unsurpassed natural setting and a tangible sense of
+        history, and Tasmania\'s capital city really does have it all.Climb a mountain and view
+        captivating modern art in the same day. Eat fish and chips from a floating fish punt, or
+        dine in the finest and freshest of restaurants. Add thriving markets, an unsurpassed natural
+        setting and a tangible sense of history, and Tasmania\'s capital city really does have it all.</string>
+    <string name="five_days">5 Days</string>
+    <string name="km">625 KM</string>
+    <string name="temperature">21℃</string>
+    <string name="duration">Duration</string>
+    <string name="distance">Distance</string>
+    <string name="sunny">Sunny</string>
+
+
+</resources>

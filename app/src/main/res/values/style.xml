@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- styles.xml -->
+    <style name="logo_text">
+
+        <item name="android:textSize">
+            24sp
+        </item>
+
+        <item name="android:letterSpacing">
+            -0.02
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+
+    <style name="exlore_dest">
+
+        <item name="android:textSize">
+            28sp
+        </item>
+
+        <item name="android:letterSpacing">
+            -0.01
+        </item>
+
+        <item name="android:textColor">
+            #121420
+        </item>
+
+    </style>
+
+    <style name="discover_th">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #A5A7AC
+        </item>
+
+    </style>
+
+    <style name="startpage_logo">
+
+        <item name="android:textSize">
+            20sp
+        </item>
+
+        <item name="android:letterSpacing">
+            -0.02
+        </item>
+
+        <item name="android:textColor">
+            #898B8F
+        </item>
+
+    </style>
+
+    <style name="enjoy_your_">
+
+        <item name="android:textSize">
+            28sp
+        </item>
+
+        <item name="android:letterSpacing">
+            -0.01
+        </item>
+
+        <item name="android:textColor">
+            #121420
+        </item>
+
+    </style>
+
+    <style name="keep_you_tr">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #A5A7AC
+        </item>
+
+    </style>
+
+    <style name="welcome_to_">
+
+        <item name="android:textSize">
+            34sp
+        </item>
+
+        <item name="android:letterSpacing">
+            -0.02
+        </item>
+
+        <item name="android:textColor">
+            #121420
+        </item>
+
+    </style>
+
+    <style name="email">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:letterSpacing">
+            -0.01
+        </item>
+
+        <item name="android:textColor">
+            #A5A7AC
+        </item>
+
+    </style>
+
+    <style name="password">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:letterSpacing">
+            -0.01
+        </item>
+
+        <item name="android:textColor">
+            #A5A7AC
+        </item>
+
+    </style>
+
+    <style name="sign_in">
+
+        <item name="android:textSize">
+            28sp
+        </item>
+
+        <item name="android:letterSpacing">
+            -0.01
+        </item>
+
+        <item name="android:textColor">
+            #121420
+        </item>
+
+    </style>
+
+    <style name="register">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            -0.01
+        </item>
+
+        <item name="android:textColor">
+            #121420
+        </item>
+
+    </style>
+
+    <!-- styles.xml -->
+    <style name="tajmahal_in">
+
+        <item name="android:textSize">
+            13sp
+        </item>
+
+        <item name="android:letterSpacing">
+            -0.01
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+        <item name="android:shadowColor">
+            #4D520010
+        </item>
+
+        <item name="android:shadowDx">
+            0
+        </item>
+
+        <item name="android:shadowDy">
+            2
+        </item>
+
+        <item name="android:shadowRadius">
+            6
+        </item>
+
+    </style>
+</resources>

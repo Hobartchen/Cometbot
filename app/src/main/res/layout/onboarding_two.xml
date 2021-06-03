@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/onboarding_"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/onboarding_"
+    >
+
+    <View
+        android:id="@+id/mask_group"
+        android:layout_width="295dp"
+        android:layout_height="231.15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/group_124" />
+
+    <TextView
+        android:id="@+id/exlore_dest"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_below="@+id/mask_group"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/nunito_bold"
+        android:lineSpacingExtra="2sp"
+        android:text="@string/choose_a"
+        android:textAppearance="@style/exlore_dest" />
+
+    <TextView
+        android:id="@+id/select_a"
+        android:layout_width="327dp"
+        android:layout_height="48dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="440dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:lineSpacingExtra="2sp"
+        android:text="@string/select_a"
+        android:textAppearance="@style/discover_th" />
+
+    <RelativeLayout
+        android:id="@+id/group_123"
+        android:layout_width="327dp"
+        android:layout_height="277.14dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="438dp"
+        android:background="@drawable/group_123" >
+
+        <View
+            android:id="@+id/group_125"
+            android:layout_width="40dp"
+            android:layout_height="8dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="80dp"
+            android:background="@drawable/group_125_middle" />
+
+        <View
+            android:id="@+id/next_btn"
+            android:layout_width="91.14dp"
+            android:layout_height="91.14dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="120dp"
+            android:background="@drawable/group_115" />
+    </RelativeLayout>
+</RelativeLayout>
